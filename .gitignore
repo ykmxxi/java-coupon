@@ -38,3 +38,10 @@ out/
 
 ### docker volume ###
 docker/data
+
+### dummy data ###
+/src/main/resources/sql/*
+init-db.sh
+
+### Claude Code ###
+.claude/
